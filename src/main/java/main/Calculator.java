@@ -30,7 +30,7 @@ public class Calculator {
                 System.out.println("Illigal Operation");
             inp.close();
            }
-
+//
     }  public static int add(int x, int y)
     {
     	  int result=0;
